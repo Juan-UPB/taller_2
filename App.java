@@ -5,8 +5,8 @@ public class App{
         Scanner entrada = new Scanner(System.in);
 
         System.out.println("Escoja una opcion:");
-        System.out.println("1. Ecuacion 1");
-        System.out.println("2. Ecuacion 2");
+        System.out.println("1. Solucionar ecuacion 1");
+        System.out.println("2. Solucionar ecuacion 2");
         System.out.println("3. Salir");
 
         int opcion = entrada.nextInt();
