@@ -45,7 +45,7 @@ public class App{
                             )
                         );
 
-                System.out.println("El resultado de y es: " + y);
+                System.out.println("El resultado final de y es: " + y);
             }
 
         } else {
