@@ -47,7 +47,7 @@ Programa en Java que contiene un menú con tres opciones:
 
 ## Presentación
 
-[Enlace de la presentación](PEGAR_ENLACE_AQUI)
+(https://canva.link/ubcyu93g2qacd5n)
 
 ## Tecnologías utilizadas
 
