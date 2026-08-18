@@ -12,11 +12,11 @@ public class App{
         int opcion = entrada.nextInt();
 
         if (opcion == 3) {
-            System.out.println("Programa finalizado.");
+            System.out.println("Cerrando Programa.");
 
         } else if (opcion == 1 || opcion == 2) {
 
-            System.out.print("Digite el valor de x: ");
+            System.out.print("Digite por favor el valor de x: ");
             double x = entrada.nextDouble();
 
             System.out.print("Digite el valor de z: ");
