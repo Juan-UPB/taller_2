@@ -53,5 +53,5 @@ Programa en Java que contiene un menú con tres opciones:
 
 * Java
 * Visual Studio Code
-* Git
+* GitBash
 * GitHub
