@@ -4,7 +4,7 @@ public class App{
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Escoja una opcion:");
+        System.out.println("Escoger una opcion:");
         System.out.println("1. Solucionar ecuacion 1");
         System.out.println("2. Solucionar ecuacion 2");
         System.out.println("3. Salir");
@@ -19,7 +19,7 @@ public class App{
             System.out.print("Digite por favor el valor de x: ");
             double x = entrada.nextDouble();
 
-            System.out.print("Digite el valor de z: ");
+            System.out.print("Digite por favor el valor de z: ");
             double z = entrada.nextDouble();
 
             double y;
