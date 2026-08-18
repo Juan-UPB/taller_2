@@ -26,5 +26,19 @@ public class Variables {
 
         long distancia = 150000L;
         byte edadHermano = 20;
+        int semestre = 1;
+        String pais = "Colombia";
+
+        edad = 20;
+        poblacion = distancia;
+        altura = temperatura;
+        promedio = peso;
+        semestre = materias;
+
+        estudiante = false;
+        trabaja = false;
+        grupo = 'B';
+        nombre = "Carlos";
+        ciudad = "Bogota";
     }
 }
