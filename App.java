@@ -49,7 +49,7 @@ public class App{
             }
 
         } else {
-            System.out.println("Opcion no valida.");
+            System.out.println("Ingresar valor valido.");
         }
 
         entrada.close();
