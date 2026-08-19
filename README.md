@@ -49,7 +49,7 @@ Programa en Java que contiene un menú con tres opciones:
 
 ## Presentación
 
-https://canva.link/ubcyu93g2qacd5n
+https://canva.link/j8tfqid5egf2ot5
 
 ## Tecnologías utilizadas
 
