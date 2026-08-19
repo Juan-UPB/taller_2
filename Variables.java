@@ -33,11 +33,6 @@ public class Variables {
         int semestre = 1;
         String pais = "Colombia";
 
-        edad = 20;
-        poblacion = distancia;
-        altura = temperatura;
-        promedio = peso;
-        semestre = materias;
-
+       
     }
 }
