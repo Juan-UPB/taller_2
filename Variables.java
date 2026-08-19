@@ -24,6 +24,10 @@ public class Variables {
         double promedio = 4.0;
         float temperatura = 24.5f;
 
+        int numero = 10;
+
+        String marca = "Nike";
+
         long distancia = 150000L;
         byte edadHermano = 20;
         int semestre = 1;
@@ -35,10 +39,5 @@ public class Variables {
         promedio = peso;
         semestre = materias;
 
-        estudiante = false;
-        trabaja = false;
-        grupo = 'B';
-        nombre = "Carlos";
-        ciudad = "Bogota";
     }
 }
